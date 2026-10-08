@@ -13,7 +13,7 @@ Considerations for the public: By using one of our public licenses, a licensor g
 Attribution-NonCommercial 4.0 International
 Copyright
 
-Copyright © [YEAR] [YOUR NAME OR ORGANIZATION]
+Copyright © 2026 github.com/Protoshift
 
 Unless otherwise stated, this work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
